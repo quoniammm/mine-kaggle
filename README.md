@@ -1,2 +1,2 @@
 # mine-kaggle
-this is some about kaggle competition
+this is some about kaggle competition.
